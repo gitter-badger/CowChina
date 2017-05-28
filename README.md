@@ -1,4 +1,6 @@
 # CowChina [![Travis](https://img.shields.io/travis/hmksq/CowChina.svg)]() [![Coveralls](https://img.shields.io/coveralls/hmksq/CowChina.svg)]()
+
+[![Join the chat at https://gitter.im/CowChina/Lobby](https://badges.gitter.im/CowChina/Lobby.svg)](https://gitter.im/CowChina/Lobby?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 CowChina is a logger for a variant of the Spades playing card game. It logs the moves, invalid cards (cheating) and winners. It is licensed under the MIT License.  
 Right now, this could only be used with our variant of Spades, called Hokm.  
 
